@@ -1,10 +1,7 @@
 
 <img align="left" alt="Coding" width="300" src="https://camo.githubusercontent.com/a433273b618d7b8c2569ba6013774adf910ae8e3da45eaff176f64781bfd53fc/68747470733a2f2f72617069646170692e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f30312f6f63746f6361742e676966">
-<img align="right" alt="Coding" width="670" length="200" src="https://github.com/arshpreet8051/arshpreet8051/blob/main/github.jpg">
-<br>
-<h1 align="center"> </h1>
-<h3 align="center">Hi 👋, I'm Arshpreet Singh</h3>
-<h2 align="center">Talk is cheap, show me the code.</h2>
+<h1 align="center">Hi 👋, I'm Arshpreet Singh</h1>
+<h3 align="center">Talk is cheap, show me the code.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshpreet8051&label=Profile%20views&color=0e75b6&style=flat" alt="arshpreet8051" /> </p>
