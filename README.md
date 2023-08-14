@@ -34,4 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshpreet8051&show_icons=true&locale=en" alt="arshpreet8051" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=arshpreet8051)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshpreet8051&" alt="arshpreet8051" /></p>
