@@ -9,13 +9,13 @@
 <br>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Competitive coding,OS,DBMS**
+- 🔭 I’m currently working on **Dynamic Programming**
 
-- 🌱 I’m currently learning **pytorch, javascript, Linux, OS**
+- 🌱 I’m currently learning **CodeIgniter, Angular, Laravel**
 
-- 💬 Ask me about **DSA, Operating sysetems, C++, python**
+- 💬 Ask me about **DSA, Machine Learning**
 
-- 📫 How to reach me **business.arsh8051@gmail.com**
+- 📫 How to reach me **arshpreet8051@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
