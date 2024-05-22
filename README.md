@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Dynamic Programming**
 
-- 🌱 I’m currently learning **CodeIgniter, Angular, Laravel**
+- 🌱 I’m currently learning **MEAN technologies**
 
 - 💬 Ask me about **DSA, Machine Learning**
 
